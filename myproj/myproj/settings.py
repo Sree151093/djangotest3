@@ -25,7 +25,7 @@ SECRET_KEY = 'gvz1!ek^wzbo+f*j3j0tv#+k*egncf6413hda=$3sy+2j@o$n@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['djangotest3/myproj.pythonanywhere.com']
+ALLOWED_HOSTS = ['http://sree333.pythonanywhere.com/']
 
 
 # Application definition
